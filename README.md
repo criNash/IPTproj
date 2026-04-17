@@ -2,13 +2,10 @@
 
 A web-based personal budget management system that helps users track their income, expenses, and financial goals with a dedicated admin panel for user management.
 
----
-
 ## Project Description
 
 Budget Supreme is a web application designed to help individuals take control of their personal finances. Users can register, log in, manage multiple wallet/bank accounts, record transactions, set spending budgets per category, and visualize their financial data through interactive graphs. An admin panel allows administrators to monitor registered clients and platform statistics.
 
----
 
 ## Features
 
@@ -34,7 +31,6 @@ Budget Supreme is a web application designed to help individuals take control of
 - Admin Profile Settings — Manage admin account and password
 - Create Admin — Add new admin users
 
----
 
 ## Technologies Used
 
@@ -45,7 +41,6 @@ Budget Supreme is a web application designed to help individuals take control of
 - Hosting: ByetHost free web hosting
 - Database Tool: phpMyAdmin
 
----
 
 ## Setup and Installation
 
